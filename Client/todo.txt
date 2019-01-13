@@ -1,0 +1,8 @@
+fix server so admin can make new user with blocking password
+change so it doesnt rerender every letter typed
+change it so it doesnt go to bla	nk pages
+change it so login with cookie
+
+change add message so its included in the page
+
+get first and last name add to REST SPEC
